@@ -1,5 +1,5 @@
 {
-    "contacts": [
+  "contacts": [
     {
       "id": "ca1",
       "name": "Leanne Graham",
@@ -81,21 +81,22 @@
       "groupId": "4"
     }
   ],
-  "groups":[
+  "groups": [
     {
-        "id":"1",
-        "name":"Friends"
+      "id": "1",
+      "name": "Friends"
     },
     {
-        "id":"2",
-        "name":"Family"
-    },{
-        "id":"3",
-        "name":"Collegues"
-    },{
-        "id":"4",
-        "name":"Social"
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
     }
   ]
 }
-
